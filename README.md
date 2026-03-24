@@ -18,7 +18,7 @@ A social coordination app that inverts the usual dynamic: instead of pulling you
 
 ![CitizenLens](gifs/citizenlens.gif)
 
-[Live preview](#)
+[Live preview](https://eye-witness.lovable.app)
 
 *Eyewitness videosharing for EU citizens and journalists.*
 
@@ -44,7 +44,7 @@ Tide Shift solves the hardest problem in platform switching: nobody wants to be 
 
 ![Orbit](gifs/orbit.gif)
 
-[Live preview](#)
+[Live preview](https://orbit-rebuild.lovable.app/)
 
 *Discover people around you instantly.*
 
@@ -58,7 +58,7 @@ Orbit shows you who is physically nearby — within a configurable 10–50 metre
 
 ![Homebase](gifs/homebase.gif)
 
-[Live preview](#)
+[Live preview](https://homebase.id/)
 
 *App platform for building self-sovereign, secure, decentralized social applications.*
 
@@ -72,7 +72,7 @@ Homebase is a self-hosted identity and content layer. Users own their data (via 
 
 ![The Forest](gifs/theforest.gif)
 
-[Live preview](#)
+[Live preview](https://forest-touch-connect.lovable.app)
 
 *Connect physically before digitally.*
 
@@ -86,7 +86,7 @@ The Forest requires you to touch phones with someone in person before a digital 
 
 ![Personal Digest](gifs/personaldigest.gif)
 
-[Live preview](#)
+[Live preview](https://attuned-inbox.lovable.app/)
 
 *Groups tuned by prominence to control how they rank in your feed.*
 
@@ -98,7 +98,7 @@ Personal Digest replaces the algorithmic feed with a user-controlled one. Each g
 
 ![Kirsten](gifs/kirsten.gif)
 
-[Live preview](#)
+[Live preview](https://kirsten.lovable.app/)
 
 *AI mediated matchmaking and relationship coach.*
 
@@ -112,8 +112,6 @@ Kirsten is a voice-first AI agent that gets to know you through a warm, natural 
 
 ![Wisdom Panel](gifs/wisdompanel.gif)
 
-[Live preview](#)
-
 *Where generations meet.*
 
 Wisdom Panel is a structured intergenerational exchange: young people ask life's big questions, and experienced elders answer. The interface is deliberately minimal — no likes, no followers, just questions and responses, organized by newest and most answered.
@@ -126,8 +124,6 @@ Wisdom Panel is a structured intergenerational exchange: young people ask life's
 
 ![The Self](gifs/theself.gif)
 
-[Live preview](#)
-
 *A resurrected symposium just for you.*
 
 The Self is a philosophical AI symposium. You pose a question, and a gathering of AI-voiced "thinkers" debates it in real time — with marginal notes appearing alongside as the conversation develops. The aesthetic is parchment, classical typography, and genuine intellectual weight.
@@ -137,8 +133,6 @@ The Self is a philosophical AI symposium. You pose a question, and a gathering o
 ## Simple Meet
 
 ![Simple Meet](gifs/simplemeet.gif)
-
-[Live preview](#)
 
 *The doodle that actually works.*
 
@@ -152,8 +146,6 @@ Simple Meet creates a scheduling poll in under a minute — no login, no app dow
 
 ![The Concierge](gifs/concierge.gif)
 
-[Live preview](#)
-
 *A concierge layer for group messaging.*
 
 The Concierge sits above your message threads and tells you what actually needs your attention. Across groups of any size — from a best friend to a 1,043-member community — it surfaces unanswered questions, missed polls, pending decisions, and active threads, so you never have to scroll to catch up.
@@ -163,8 +155,6 @@ The Concierge sits above your message threads and tells you what actually needs 
 ## Sovereignty Planner
 
 ![Sovereignty Planner](gifs/sovereigntyplanner.gif)
-
-[Live preview](#)
 
 *Map your path away from big tech.*
 
@@ -176,7 +166,7 @@ Sovereignty Planner is a step-by-step migration guide from Big Tech lock-in to d
 
 ![DOGMAs](gifs/dogmas.gif)
 
-[Live preview](#)
+[Live preview](https://chat-with-friction.lovable.app)
 
 *Friction dogma #1: backwards typing.*
 
@@ -188,7 +178,7 @@ DOGMAs is a platform built around designed friction. The first dogma: you type y
 
 ![Commons](gifs/commons.gif)
 
-[Live preview](#)
+[Live preview](https://welcometocommons.lovable.app/)
 
 *Vibecoded community platform.*
 
@@ -202,7 +192,7 @@ Commons lets you describe your community in plain language and builds the right 
 
 ![Local Sports Finder](gifs/localsports.gif)
 
-[Live preview](#)
+[Live preview](https://locall-sports-finder.lovable.app/)
 
 *Pick up a game anywhere near you.*
 
@@ -216,8 +206,6 @@ Local Sports Finder shows you informal games and pickup sessions happening nearb
 
 ![Craft](gifs/craft.gif)
 
-[Live preview](#)
-
 *Share what you build.*
 
 Craft is a maker-focused social platform for people who create physical things. Onboarding asks you to pick a primary hobby — DIY & Maker, Cooking & Baking, Photography, Painting & Art, Gardening, and more — and builds a personalized feed of made things around it. The emphasis is on the process and the object, not the creator's persona.
@@ -229,8 +217,6 @@ Craft is a maker-focused social platform for people who create physical things. 
 ## Tool Pool
 
 ![Tool Pool](gifs/toolpool.gif)
-
-[Live preview](#)
 
 *Find tools from neighbours. Reduce waste, save money, build together.*
 
