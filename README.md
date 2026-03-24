@@ -54,20 +54,6 @@ Orbit shows you who is physically nearby — within a configurable 10–50 metre
 
 ---
 
-## Homebase
-
-![Homebase](gifs/homebase.gif)
-
-[Live preview](https://homebase.id/)
-
-*App platform for building self-sovereign, secure, decentralized social applications.*
-
-Homebase is a self-hosted identity and content layer. Users own their data (via Appwrite or similar backends), choose which social apps to connect, and carry their profile and posts across services. The demo shows a polished profile with Posts, Links, About, and Connections — all portable.
-
-[GitHub repository](https://github.com/rebuild-europe/homebase.id)
-
----
-
 ## The Forest
 
 ![The Forest](gifs/theforest.gif)
@@ -199,6 +185,20 @@ Commons lets you describe your community in plain language and builds the right 
 Local Sports Finder shows you informal games and pickup sessions happening nearby right now. You select the sports you play in onboarding, and the app surfaces opportunities to join — football, basketball, tennis, padel, cycling, and more — removing the coordination friction that stops spontaneous sport from happening.
 
 [GitHub repository](https://github.com/rebuild-europe/locall-sports-finder)
+
+---
+
+## Homebase
+
+![Homebase](gifs/homebase.gif)
+
+[Live preview](https://homebase.id/)
+
+*App platform for building self-sovereign, secure, decentralized social applications.*
+
+Homebase is a self-hosted identity and content layer. Users own their data (via Appwrite or similar backends), choose which social apps to connect, and carry their profile and posts across services. The demo shows a polished profile with Posts, Links, About, and Connections — all portable.
+
+[GitHub repository](https://github.com/rebuild-europe/homebase.id)
 
 ---
 
